@@ -1,5 +1,8 @@
 # News-Detection-in-Telugu-Language
 
+## Dataset
+- For dataset, please mail to (kotavenkatavamshidharreddy@gmail.com)
+
 ## DL model Architecture
 ![image](https://github.com/user-attachments/assets/a5144965-bc6d-434f-a128-d9cebd9cb459)
 
